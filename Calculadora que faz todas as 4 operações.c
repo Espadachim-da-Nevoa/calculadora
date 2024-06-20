@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//Feito por um cabra manso
 
 int main(int argc, char *argv[]) {
 	
